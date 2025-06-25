@@ -4,7 +4,7 @@ from tabulate import tabulate
 from datetime import datetime
 
 
-SERVICE_ACCOUNT_FILE = r"C:\Users\jasle\Downloads\crudproject-463112-bf75339f029d.json"
+SERVICE_ACCOUNT_FILE = r"crudproject-463112-bf75339f029d.json"
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive"
