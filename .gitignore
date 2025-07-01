@@ -1,0 +1,20 @@
+.vercel
+
+# Google Sheets Service Account Credentials (contains sensitive information)
+model/*.json
+*.json
+
+# Node modules and build artifacts
+node_modules/
+.expo/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS generated files
+.DS_Store
+Thumbs.db
